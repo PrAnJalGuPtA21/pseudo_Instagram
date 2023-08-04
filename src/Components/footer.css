@@ -1,0 +1,13 @@
+.foott>ul{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+}
+
+.foott>ul>li{
+    font-size: x-small;
+    color: grey;
+    list-style: none;
+    padding:6px;
+}
+
